@@ -38,8 +38,8 @@ Aqui estão alguns dos projetos destacados que eu trabalhei ou criei:
 - 1ºPeríodo
 
 ## Contato
-
+ 
 - **E-mail:** amandateles2070@gmail.com
-- **LinkedIn:**www.linkedin.com/in/amanda-teles-a31967245
+- **LinkedIn:** www.linkedin.com/in/amanda-teles-a31967245
 - **GitHub:** [Link para o seu perfil do GitHub]
 - **Contato:** (21) 9 9849-7420
