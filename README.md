@@ -23,13 +23,7 @@ Aqui estão alguns dos projetos destacados que eu trabalhei ou criei:
 - **Tecnologias Utilizadas:** c#, sql, html e css
 - **Link para o Projeto:** Em desenvolvimento.
 
-## Experiência Profissional
-
-Descreva sua experiência profissional, estágios ou trabalhos anteriores, se aplicável.
-
 ## Habilidades
-
-Liste suas habilidades e competências relevantes.
 
 - Comunicadora
 - Analítica
