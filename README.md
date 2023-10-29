@@ -5,23 +5,23 @@ Este é o meu portfólio pessoal, onde compartilho informações sobre mim, meu 
 
 ## Sobre Mim
 
-[Insira uma breve descrição sobre você, sua formação, interesses e habilidades.]
+Busco por estágios onde eu possa aprender bastante, receber novos desafios e responsábilidade e crescer.
 
 ## Projetos Destacados
 
 Aqui estão alguns dos projetos destacados que eu trabalhei ou criei:
 
-### [Projeto Bancário]
+### Projeto Bancário
 
-- **Descrição:** [Um sistema de fazer depósitos, saques e extrato.]
-- **Tecnologias Utilizadas:** [JavaScript]
-- **Link para o Projeto:** []
+- **Descrição:** Um sistema de fazer depósitos, saques e extrato.
+- **Tecnologias Utilizadas:** JavaScript
+- **Link para o Projeto:** https://github.com/Teles2003/01-Projeto_Bancario
 
-### [Nome do Projeto 2]
+### Projeto Rangoss
 
-- **Descrição:** [Uma breve descrição do projeto]
-- **Tecnologias Utilizadas:** [Lista de tecnologias utilizadas]
-- **Link para o Projeto:** [Link para o repositório ou site, se aplicável]
+- **Descrição:** Web de um restaurante, criado em grupo e começado do zero.
+- **Tecnologias Utilizadas:** c#, sql, html e css
+- **Link para o Projeto:** Em desenvolvimento.
 
 [Adicione mais projetos, se desejar.]
 
@@ -33,20 +33,21 @@ Descreva sua experiência profissional, estágios ou trabalhos anteriores, se ap
 
 Liste suas habilidades e competências relevantes.
 
-- [Habilidade 1]
-- [Habilidade 2]
-- [Habilidade 3]
-- ...
+- Comunicadora
+- Analítica
+- Facil aprendizado
+- Equilibrada
+- Trabalho e equipe
 
 ## Educação
 
-- [Grau Universitário, se aplicável]
-- [Instituição de Ensino]
-- [Ano de Conclusão]
+- Tecnologo
+- Cruzeiro do Sul
+- 1ºPeríodo
 
 ## Contato
 
-- **E-mail:** [Seu endereço de e-mail]
-- **LinkedIn:** [Link para o seu perfil do LinkedIn]
+- **E-mail:** amandateles2070@gmail.com
+- **LinkedIn:**www.linkedin.com/in/amanda-teles-a31967245
 - **GitHub:** [Link para o seu perfil do GitHub]
-- [Outras redes sociais ou formas de contato, se aplicável]
+- **Contato:** (21) 9 9849-7420
