@@ -5,7 +5,7 @@ Este é o meu portfólio pessoal, onde compartilho informações sobre mim, meu 
 
 ## Sobre Mim
 
-Busco por estágios onde eu possa aprender bastante, receber novos desafios e responsábilidade e crescer.
+Busco por estágios onde eu possa aprender bastante, receber novos desafios, responsábilidades e crescimento.
 
 ## Projetos Destacados
 
